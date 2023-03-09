@@ -9,6 +9,6 @@
 ## Program Advantages
 - features :
    * [X] Create a guess list
-   * [X] A DDoS attack worked with a large number of botnets
-   * [X] dos attack using ip
-   * [ ] Dos attack using domain
+   * [X] Test password list
+   * [X] Guess the passwords
+   * [ ] Create infinite lists
